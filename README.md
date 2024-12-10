@@ -20,7 +20,7 @@
 
 ### 📷 Tela inicial:
 
-![landpage Clinic](https://user-images.githubusercontent.com/54273070/167270355-d32aca3c-d3e5-4364-928a-7a52664f965f.png)
+![landpage Clinic](https://github.com/user-attachments/assets/f1bfe961-8ce4-4dd6-9ccc-ba797f5de5d0)
 
 ---
 
@@ -28,4 +28,4 @@
 
 1️⃣ **Clone este repositório pelo seu terminal**  
 ```bash
-git clone https://github.com/geraldok7/mediclandpage.git
+git clone https://github.com/johnnhenrique/clinicalcare.git
