@@ -28,4 +28,4 @@
 
 1️⃣ **Clone este repositório pelo seu terminal**  
 ```bash
-git clone https://github.com/johnnhenrique/clinicalcare.git
+git clone [https://github.com/johnnhenrique/clinicalcare.git]
