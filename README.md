@@ -20,7 +20,7 @@
 
 ### 📷 Tela inicial:
 
-![landpage Clinic](https://github.com/user-attachments/assets/f1bfe961-8ce4-4dd6-9ccc-ba797f5de5d0)
+![landpage Clinic]([https://github.com/user-attachments/assets/f1bfe961-8ce4-4dd6-9ccc-ba797f5de5d0](https://github.com/johnnhenrique/ClinicalCare/issues/1#issue-2730708441))
 
 ---
 
