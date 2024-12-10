@@ -1,4 +1,4 @@
-<h1 align="center">Doctor Care</h1>
+<h1 align="center">Landpage Clinic</h1>
 
 
 
@@ -10,7 +10,7 @@
 <br /> <br />
 
 ### 📷 Tela inicial:
-![doctor-care](https://user-images.githubusercontent.com/54273070/167270355-d32aca3c-d3e5-4364-928a-7a52664f965f.png)
+![landpage-clinic]()
 
 <br />
 
@@ -18,7 +18,7 @@
 
 ##### Passo 1. Clone este repositório pelo seu terminal:
 ```
-$ git clone https://github.com/geraldok7/mediclandpage.git
+$ git clone https://github.com/johnnhenrique/mediclandpage.git
 ```
 ##### Passo 2. Acesse a pasta do projeto:
 ```
